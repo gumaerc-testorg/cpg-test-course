@@ -1,5 +1,5 @@
 ---
-description: cart 1
+description: cart 2
 file: /media/courses/cpg-test-course/a5705ddccd564773bc75025221d56794_Amazon_Fresh_Shopping_Cart.pdf
 file_type: application/pdf
 image_metadata:

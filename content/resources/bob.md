@@ -1,5 +1,5 @@
 ---
-description: bob 1
+description: bob 2
 file: /media/courses/cpg-test-course/239902e05cc64d3f8e8bb0dbdc290c4b_bob.png
 file_type: image/png
 image_metadata:
