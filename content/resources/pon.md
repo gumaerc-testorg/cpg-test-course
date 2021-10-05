@@ -1,5 +1,6 @@
 ---
-description: pon 2
+content_type: resource
+description: pon 3
 file: null
 file_type: ''
 image_metadata:
