@@ -1,5 +1,4 @@
 ---
-content_type: resource
 description: bob 4
 file: /media/courses/cpg-test-course/239902e05cc64d3f8e8bb0dbdc290c4b_bob.png
 file_type: image/png
@@ -12,6 +11,7 @@ learning_resource_types:
 license: https://creativecommons.org/publicdomain/zero/1.0/
 resourcetype: Image
 title: bob
+type: resource
 uid: 239902e0-5cc6-4d3f-8e8b-b0dbdc290c4b
 video_files:
   video_captions_file: ''

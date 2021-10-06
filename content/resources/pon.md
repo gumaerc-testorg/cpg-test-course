@@ -1,5 +1,4 @@
 ---
-content_type: resource
 description: pon 3
 file: null
 file_type: ''
@@ -12,6 +11,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: pon
+type: resource
 uid: bfbcad4a-a0b7-47d2-b2e9-9d80ebc0c107
 video_files:
   video_captions_file: ''
