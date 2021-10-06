@@ -3,3 +3,7 @@ leftnav:
   name: test page
   url: /pages/test-page
   weight: 0
+- identifier: 239902e0-5cc6-4d3f-8e8b-b0dbdc290c4b
+  name: test page 2
+  url: /resources/bob
+  weight: 10
