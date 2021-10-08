@@ -14,3 +14,8 @@ test content 3
 {{< resource_link bfbcad4a-a0b7-47d2-b2e9-9d80ebc0c107 "bfbcad4a-a0b7-47d2-b2e9-9d80ebc0c107" >}}
 
 {{< resource_link 239902e0-5cc6-4d3f-8e8b-b0dbdc290c4b "239902e0-5cc6-4d3f-8e8b-b0dbdc290c4b" >}}
+
+| this | is a | table |
+| --- | --- | --- |
+| lol | lmao | rofl |
+| haha | hahaha | hahahaha |
