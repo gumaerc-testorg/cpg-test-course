@@ -17,5 +17,13 @@ test content 3
 
 | this | is a | table |
 | --- | --- | --- |
-| lol | lmao | rofl |
-| haha | hahaha | hahahaha |
+| 
+> lol
+
+ | lmao | 
+
+- rofl
+- also not rofl?
+
+ |
+| [haha](google.com) | _hahaha_ | **hahahaha** |
