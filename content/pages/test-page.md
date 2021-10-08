@@ -19,9 +19,5 @@ test content 3
 | --- | --- | --- |
 | **test** | _row_ | one |
 | [test](google.com) | row | two |
-| test | 
-row
-
-will this break?
-
- | three |
+| test | row | | three |
+|   |   |   |
